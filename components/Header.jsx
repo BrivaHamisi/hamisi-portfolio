@@ -4,7 +4,7 @@ import Nav from "./ui/Nav"
 
 const Header = () => {
   return (
-    <header className="py-8 xl:py-12 text-white bg-pink-50/20">
+    <header className="py-8 xl:py-12 text-whit">
         <div className="container mx-auto flex justify-between items-center">
             <Link href="/">
             <h1 className="text-4xl font-semibold">Hamisi<span className="text-accent">.</span></h1>
